@@ -1,1 +1,1 @@
-# testproj-configuration
+# cloudevents-configuration
